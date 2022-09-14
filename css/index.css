@@ -76,6 +76,10 @@ footer aside{
     margin-top: 2vh;
 }
 
+a{
+    color: black;
+    text-decoration: none;
+}
 
 main div p:hover {
     color: green;
